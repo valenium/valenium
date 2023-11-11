@@ -7,9 +7,9 @@ I'm currently immersing myself in the world of software development through Gene
 
 ## 🚀 What I'm Learning
 Full Stack Development
-Languages: Python, JavaScript, HTML, CSS SQL, Mongo, JSON, Typescript, DTL
-Libraries and Frameworks: React, Express.js, Django, jQuery, Bootstrap, Semantic, JQL
-Databases and other: Jira, PostgreSQL, MongoDB, RESTful Routing, JSON API, Confluence, HubSpot, Excel
+- Languages: Python, JavaScript, HTML, CSS SQL, Mongo, JSON, Typescript, DTL
+- Libraries and Frameworks: React, Express.js, Django, jQuery, Bootstrap, Semantic, JQL
+- Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API
 
 ## 🛠️ Skills
 - Product management
