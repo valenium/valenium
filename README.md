@@ -1,14 +1,14 @@
-### Hi there 👋 I'm Valerie, an enthusiast of all things tech!
+### Hi there 👋 I'm Valerie
 
 🎮 Former Gaming and Cybersecurity Project Manager turned aspiring Software Engineer.
 
 ## 👨‍💻 About Me
-I'm currently immersing myself in the world of software development through General Assembly's Software Engineering Immersive Bootcamp. My journey began in the realm of gaming and cybersecurity, where I wore many different hats and had the opportunity to hone my skills in product development, project management, customer success, and people management. Now, I'm excited to transition to a hands-on role in building innovative solutions.
+I am a full-stack software engineering bootcamp graduate that is passionate about sustainability and global governance. My journey began in the realm of gaming and cybersecurity, where I wore many different hats and had the opportunity to hone my skills in product development, project management, customer success, and people management. Now, I'm excited to transition to a hands-on role in building innovative solutions.
 
 ## 🚀 What I'm Learning
 Full Stack Development
 - Languages: Python, JavaScript, HTML, CSS SQL, Mongo, JSON, Typescript, DTL
-- Libraries and Frameworks: React, Express.js, Django, jQuery, Bootstrap, Semantic, JQL
+- Libraries and Frameworks: React, Express.js, Django, jQuery, Bootstrap, Semantic, JQL, Tailwind
 - Databases and other: PostgreSQL, MongoDB, RESTful Routing, JSON API
 
 ## 🛠️ Skills
