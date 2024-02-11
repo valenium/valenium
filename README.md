@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 I am a full-stack software engineering bootcamp graduate that is passionate about sustainability and global governance. My journey began in the realm of gaming and cybersecurity, where I wore many different hats and had the opportunity to hone my skills in product development, project management, customer success, and people management. Now, I'm excited to transition to a hands-on role in building innovative solutions.
 
-## 🚀 What I'm Learning
+## 🚀 Technical Skills
 Full Stack Development
 - Languages: Python, JavaScript, HTML, CSS SQL, Mongo, JSON, Typescript, DTL
 - Libraries and Frameworks: React, Express.js, Django, jQuery, Bootstrap, Semantic, JQL, Tailwind
